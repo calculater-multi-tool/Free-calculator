@@ -1,0 +1,33 @@
+/* Health Theme Colors */
+:root {
+    --primary-color: #4CAF50; /* Healthy green */
+    --secondary-color: #E8F5E9; /* Very light green */
+    --accent-color: #2E7D32; /* Dark green */
+}
+
+/* Style the header and other health-specific elements */
+body {
+    background-color: var(--secondary-color);
+}
+
+header {
+    border-bottom: 3px solid var(--primary-color);
+}
+
+.tool-card {
+    border-top: 4px solid var(--primary-color);
+}
+
+.tool-card:hover {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.2);
+}
+
+.view-tool-button {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.view-tool-button:hover {
+    background-color: var(--accent-color);
+}
