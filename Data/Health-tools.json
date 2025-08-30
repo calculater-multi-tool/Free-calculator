@@ -1,0 +1,24 @@
+[
+    {
+        "name": "BMI Calculator",
+        "description": "Calculate your Body Mass Index to see if you are a healthy weight for your height.",
+        "url": "/health/bmi-calculator/"
+    },
+    {
+        "name": "Calorie Calculator",
+        "description": "Find out how many daily calories your body needs to maintain, lose, or gain weight.",
+        "url": "/health/calorie-calculator/"
+    },
+    {
+        "name": "Ideal Weight Calculator",
+        "description": "Calculate your healthy weight range based on your height and gender.",
+        "url": "/health/ideal-weight-calculator/"
+    }
+    // -- !! PASTE NEW TOOLS BELOW THIS LINE !! --
+    // ,
+    // {
+    //     "name": "Body Fat Percentage Calculator",
+    //     "description": "Estimate your body fat percentage using common methods.",
+    //     "url": "/health/body-fat-calculator/"
+    // }
+]
